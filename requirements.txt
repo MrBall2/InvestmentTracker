@@ -1,0 +1,4 @@
+newspaper==0.1.0.7
+ollama==0.6.3
+pandas==3.0.6
+yfinance==1.3.0
